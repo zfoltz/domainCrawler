@@ -1,5 +1,3 @@
-# domainCrawler
-
 # Web Page Link Finder
 
 The **Web Page Link Finder** is a Python script that recursively searches a target domain for links to other pages within the domain. It utilizes the `requests`, `urllib.parse`, and `BeautifulSoup` libraries to retrieve and parse HTML content, and then identifies and prints links to more pages within the specified domain.
